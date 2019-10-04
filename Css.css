@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{padding:0; margin:10px; font-family: arial; color:black; font-style: normal; }
+nav ul li:hover{   display: block;}nav ul li a:hover{ color:red;  ;} 
+nav ul li:visited{   display: inline-block; color:currentColor;}nav ul li a:hover{ color:red;  ;} 
+div{text-align: left;}
+video{ width: 200px !important;}
